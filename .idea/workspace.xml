@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="964fa03c-5ae8-421c-9a94-be882593eaae" name="Default Changelist" comment="dagrunner_aded" />
+    <list default="true" id="964fa03c-5ae8-421c-9a94-be882593eaae" name="Default Changelist" comment="dagrunner_aded">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -18,6 +27,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="tf_model" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -58,12 +68,37 @@
       <option name="project" value="LOCAL" />
       <updated>1662452548598</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="dagrunner_aded">
+      <created>1662452737196</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662452737196</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="dagrunner_aded" />
     <option name="LAST_COMMIT_MESSAGE" value="dagrunner_aded" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1317" y="586" key="FileChooserDialogImpl" timestamp="1662452615601">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state x="1317" y="586" key="FileChooserDialogImpl/0.0.3072.1688@0.0.3072.1688" timestamp="1662452615601" />
+    <state x="1415" y="742" width="241" height="275" key="Github.ShareDialog" timestamp="1662452475781">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state x="1415" y="742" width="241" height="275" key="Github.ShareDialog/0.0.3072.1688@0.0.3072.1688" timestamp="1662452475781" />
+    <state x="1129" y="577" key="Vcs.Push.Dialog.v2" timestamp="1662452726317">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state x="1129" y="577" key="Vcs.Push.Dialog.v2/0.0.3072.1688@0.0.3072.1688" timestamp="1662452726317" />
+    <state x="1354" y="758" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1662452743820">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state x="1354" y="758" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.3072.1688@0.0.3072.1688" timestamp="1662452743820" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
